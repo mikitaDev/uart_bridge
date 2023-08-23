@@ -1,0 +1,7 @@
+../Drivers/usr/uart/uart.c:50:13:uart6_task_func	16	static
+../Drivers/usr/uart/uart.c:65:13:uart2_task_func	16	static
+../Drivers/usr/uart/uart.c:75:6:MX_USART2_UART_Init	8	static
+../Drivers/usr/uart/uart.c:102:6:MX_USART6_UART_Init	8	static
+../Drivers/usr/uart/uart.c:129:6:HAL_UART_RxCpltCallback	16	static
+../Drivers/usr/uart/uart.c:140:9:uart2_task_init	16	static
+../Drivers/usr/uart/uart.c:163:9:uart6_task_init	16	static
